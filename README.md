@@ -8,7 +8,7 @@ docker build -t mosesserver .
 
 # Run Moses Server
 
-````
+```
 docker run -it -p 8080:8080 mosesserver
 ```
 
